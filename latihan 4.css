@@ -1,0 +1,21 @@
+<style>
+	h4 {margin: 25px 50px 25px 50px;}
+	h1 {margin: 25px 50px 25px 50px;}
+	p  {margin: 25px 50px 25px 50px;}
+	h4 {text-decoration: underline;}
+	h1 {background-color: white;text-align: center;}
+	h1 {font-family: Lucida Handwriting,serif;} 
+	h1 {color: brown}
+	h1 {text-shadow: 2px 2px;}
+	img {border-radius: 20px;}
+	img {margin-left: 50px;}
+	body {background-color:#995c00;}
+	th {background-color:#ff9933; 
+		font-family: Garamond,serif;color: white;}
+	td {background-color:#ffbb80;color: white; }
+	table {margin: 25px 50px 25px 50px}
+	table {border-radius: 10px}
+	p {font-family: Verdana,serif;}
+	p {color: white;}
+</style>
+
