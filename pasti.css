@@ -1,4 +1,4 @@
-body { background-image: url(background.jpg);}
+body { background-image: url(background.jpg);background-size: cover;height: 1000px;}
 h1 {font-family: "Sofia Font",serif;}
 p {}
 .home {color: white; font-family: "Georgia",serif;}
